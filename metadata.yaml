@@ -1,0 +1,29 @@
+_repo: Greece-and-Babylon-b-A-comparative-sketch-of-Mesopotamian-Anatolian-and-Hellenic-religions_71562
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farnell, Lewis Richard
+    birthdate: 1856
+    deathdate: 1934
+    gutenberg_agent_id: '56212'
+    url: http://www.gutenberg.org/2009/agents/56212
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Richard_Farnell
+description: ''
+gutenberg_issued: '2023-09-04'
+identifiers:
+  gutenberg: '71562'
+language: en
+pgterms:marc904: https://archive.org/details/in.ernet.dli.2015.87827
+pgterms:marc905: 20230830105732farnell
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aEdinburgh :$bT. & T. Clark, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Greece and Babylon : $b A comparative sketch of Mesopotamian, Anatolian and
+  Hellenic religions'
+url: http://www.gutenberg.org/ebooks/71562
